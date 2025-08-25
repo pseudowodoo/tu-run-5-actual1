@@ -6,25 +6,22 @@ icon: circle-location-arrow
 
 You may refer to the [TechUp calendar ](../tech-up-calendar.md)during the programme for the most up-to-date venues for each session, but broadly:
 
-1. All in-person workshops and sessions will be held at **MND Office Towers @ JEM** and **IMDA PIXEL.**
-   1. On training days conducted at MND Office Towers @ JEM, Attendees are to register with the security counter on Level 1.
-   2. A security pass would be issued to you at the security counter and is to be returned at the end of the day.
-   3. If you have any issues with accessing the building, please [contact us](contact-persons.md).
-2. Web App Presentations on 26 to 28 May 2025 are held at **MDDI @ Hill Street**. The room allocations will be briefed to you nearer the date.
-3. Demo Day on 29 May 2025 will be at **MDDI Atrium** (public access is possible).
+1. All in-person workshops and sessions will be held at **Civil Service Club @ Tessensohn.**
+2. Web App Presentations on 17 Nov – 19 Nov 2025 are held at **MDDI @ Hill Street**. The room allocations will be briefed to you nearer the date.
+3. Demo Day on 21 Nov 2025 will be at **MDDI Atrium** (public access is possible).
 
 ### Additional Notes: <a href="#additional-notes" id="additional-notes"></a>
 
-* **Please be punctual for all sessions** out of respect to the speakers who have put in the effort to make this programme fruitful for you.&#x20;
-* If you intend to take taxi / private hire cars, please cater for sufficient buffer time. **You are also highly encouraged to carpool.** Do also make use of the #carpool channel (search: Carpool on Slack) to look for others living near you to carpool to MND Office Towers @ JEM and IMDA PIXEL for financial prudence. Please adhere to the transport claim guidelines for your respective agency.
+* **Please be punctual for all sessions** out of respect to the speakers who have put in the effort to make this programme fruitful for you.
+* If you intend to take taxi / private hire cars, please cater for sufficient buffer time. **You are also highly encouraged to carpool.** Do also make use of the #carpool channel (search: Carpool on Slack) to look for others living near you to carpool to Civil Service Club @ Tessensohn for financial prudence. Please adhere to the transport claim guidelines for your respective agency.
 
 ### How to get there
 
 {% tabs %}
-{% tab title="MND Office Towers @ JEM" %}
+{% tab title="Civil Service Club @ Tessensohn" %}
 **Address**
 
-52 Jurong Gateway Road, Singapore 608550
+60 Tessensohn Rd, Singapore 217664
 
 **Access**
 
@@ -32,33 +29,15 @@ Entrance to MND Office towers are on the ground floor (outside the mall, facing 
 
 **Public Transport**
 
-Nearest MRT station: Jurong East By Car: Exit 27 on PIE or Exit 11 on AYE By Taxi: Drop off at JEM Mall Taxi Stand By Bus: 5 min walk away from temporary Jurong East Bus Interchange
+Nearest MRT station: Farrer Park MRT Station\
+By Bus: \
+Along Balestier Road \[21, 125, 130, 139, 145]&#x20;\- Towards Toa Payoh\
+Along Balestier Road \[125, 130, 139, 145] - Towards Town\
+Along Balestier Road \[21, 23, 64, 65, 66, 67, 125, 130, 139, 147, 857]\
 
-**Parking Information** Carpark entrance is at Jurong Gateway Road. There are 669 car park bays at B2 & B3.
 
-Please see below for the parking charges at JEM:
-
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
-{% endtab %}
-
-{% tab title="IMDA PIXEL" %}
-<figure><img src="../.gitbook/assets/pixelbuilding.jpg" alt=""><figcaption><p>IMDA PIXEL</p></figcaption></figure>
-
-**Address**
-
-10 Central Exchange Green,&#x20;Singapore 138649
-
-**Access**
-
-Publicly accessible
-
-**Public Transport**
-
-Nearest MRT station: One North, Exit B
-
-**Parking Information**
-
-Limited Parking, charges apply. Alternative parking at Fusionopolis
+**Parking Information** \
+Refer to: CSC Website
 {% endtab %}
 
 {% tab title="MDDI Atrium" %}
