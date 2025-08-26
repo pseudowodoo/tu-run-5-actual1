@@ -7,14 +7,14 @@
 Venue: Civil Service Club @ Tessensohn\
 Level 4 - Mars/Uranus/Pluto Rooms (Combined)​
 
-<table><thead><tr><th width="214.60003662109375">Time</th><th>Programme</th></tr></thead><tbody><tr><td>10:00 – 10:30</td><td><p>Course Introduction &#x26; Admin Briefing</p><p>GovTech Digital Academy</p></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr></tbody></table>
+<table><thead><tr><th width="214.60003662109375">Time</th><th>Programme</th></tr></thead><tbody><tr><td>09:30 –10:35</td><td><p>Course Introduction &#x26; Admin Briefing​</p><p>Digital Academy</p></td></tr><tr><td>10:35 – 10:45</td><td>AM Break</td></tr><tr><td>10:45 – 12:40</td><td><p>How the Internet Works​</p><p>James Hibberd​, SWE Practice​</p></td></tr><tr><td>12:40 – 1:20</td><td>Lunch</td></tr><tr><td>1:20 – 2:00</td><td>Post-lunch chat with PS</td></tr><tr><td>2:00 – 2:45</td><td><p>[ProductUp I] What is Good Product​</p><p>Joshua Seetoh, Product Management Practice</p></td></tr><tr><td>2:45 – 4:45​<br>(incl. 15 mins​<br>break)​</td><td><p>[ProductUp II] Formulating ​<br>Problem Statements​</p><p>Joshua Seetoh, Product Management Practice</p></td></tr></tbody></table>
 {% endtab %}
 
 {% tab title="Tue 28 Oct" %}
 Venue: Civil Service Club @ Tessensohn\
 Level 4 - Mars/Uranus/Pluto Rooms (Combined)​
 
-
+<table><thead><tr><th width="321.83123779296875"></th><th></th></tr></thead><tbody><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr></tbody></table>
 {% endtab %}
 
 {% tab title="Wed 29 Oct" %}
