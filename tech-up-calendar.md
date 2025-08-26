@@ -14,24 +14,45 @@ Level 4 - Mars/Uranus/Pluto Rooms (Combined)​
 Venue: Civil Service Club @ Tessensohn\
 Level 4 - Mars/Uranus/Pluto Rooms (Combined)​
 
-<table><thead><tr><th width="321.83123779296875"></th><th></th></tr></thead><tbody><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr></tbody></table>
+<table><thead><tr><th width="321.83123779296875">Time</th><th>Programme</th></tr></thead><tbody><tr><td><p>9:30 – 12:30​</p><p>(incl. 15 mins break)​</p></td><td><p>[DesignUp I] Introduction to Design Thinking ​</p><p>Immanuel Goh, Design Practice​<br><br>[DesignUp II] Developing your Prototype ​</p><p>Immanuel Goh, Design Practice</p></td></tr><tr><td>12.30 – 1.30</td><td>Lunch</td></tr><tr><td><p>1:30 – 5:00​</p><p>(incl. 15 mins​<br>break)</p></td><td><p>[DesignUp III] Testing Your Prototype​</p><p>Immanuel Goh, Design Practice</p></td></tr></tbody></table>
 {% endtab %}
 
 {% tab title="Wed 29 Oct" %}
 Venue: Civil Service Club @ Tessensohn\
 Level 4 - Mars/Uranus/Pluto Rooms (Combined)​
 
-
+| Time                                             | Programme                                                                                                                           |
+| ------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------- |
+| <p>9:30 – 12:30​</p><p>(incl. 15 mins break)</p> | <p>[ProductUp III] How to Build an 11-Star Product​</p><p>Joshua Seetoh &#x26; Raymond Huynh​</p><p>Product Management Practice</p> |
+| 12:30 – 2.00                                     | Lunch Break                                                                                                                         |
+| 2:00 – 3:15                                      | <p>[ProductUp IV] Product Metrics ​</p><p>Case Studies​</p><p>Jessendra &#x26; Sushil from OGP</p>                                  |
+| 3:15 – 3:30                                      | PM Break                                                                                                                            |
+| <p>3:30 – 4:30​</p><p>(incl. 15 mins break)</p>  | <p>[ProductUp V] Mobile vs Web App​</p><p>Gokul Rajendran, ​</p><p>Product Management Practice</p>                                  |
 {% endtab %}
 
 {% tab title="Thu 30 Oct" %}
 Venue: Civil Service Club @ Tessensohn\
 Level 4 - Mars/Uranus/Pluto Rooms (Combined)​
+
+| Time                                              | Programme                                                                                             |
+| ------------------------------------------------- | ----------------------------------------------------------------------------------------------------- |
+| <p>09:30 – 12:30​</p><p>(incl. 15 mins break)</p> | <p>[DevtUp I] Iterative WebApp​<br>Development with AI​<br>James Hibberd, SWE Practice</p>          |
+| 12:30 – 1:30                                      | Lunch Break                                                                                           |
+| <p>1:30 – 5:00​</p><p>(incl. 15 mins break)</p>   | <p>[DevtUp I] Iterative WebApp​<br>Development with AI (cont’d)​<br>James Hibberd, SWE Practice</p> |
 {% endtab %}
 
 {% tab title="Fri 31 Oct" %}
 Venue: Civil Service Club @ Tessensohn\
 Level 4 - Mars/Uranus/Pluto Rooms (Combined)​
+
+| Time          | Programme                                                                      |
+| ------------- | ------------------------------------------------------------------------------ |
+| 9:30 – 11:00  | <p>[AIUp I] Harnessing Opportunities in AI​</p><p>Stephanie Siow, I&#x26;T</p> |
+| 11:00 – 11:15 | Lunch Break                                                                    |
+| 11:15 – 1:00  | <p>[AIUp II] Developing AI Fluency​</p><p>TBC, AI Practice</p>                 |
+| 1:00 – 2:00   | PM Break​                                                                      |
+| 2:00 – 4:00   | <p>[AIUp III] Building AI Bots​</p><p>TBC</p>                                  |
+| 4:00 – 4:20   | <p>EOW Programme Review​</p><p>Digital Academy</p>                             |
 {% endtab %}
 {% endtabs %}
 
@@ -47,7 +68,7 @@ Self Paced Learning - Project Work
 Venue: Civil Service Club @ Tessensohn\
 (see [Venues ](readme/venues.md)for access instructions)
 
-<table><thead><tr><th width="205">Time</th><th>Programme</th></tr></thead><tbody><tr><td>09:45 – 12:00<br>(incl. 15 mins break)</td><td>Product Metrics Case Studies<br><em>Lennard Lim, Lead Product Manager, OGP</em></td></tr><tr><td>12:00 – 1:30pm</td><td>Lunch Break</td></tr><tr><td>1:30 – 3:30</td><td><p>How to Build an 11-star Product</p><p><em>Kaiwei Chen, Head of Product Practice</em></p></td></tr><tr><td>3:30 – 3:45</td><td>PM Break</td></tr><tr><td>3:45 – 5:00</td><td><p>Mobile vs Web App</p><p><em>Govind Ganesan and Jaye Tan, MDDI</em></p></td></tr></tbody></table>
+<table><thead><tr><th width="205">Time</th><th>Programme</th></tr></thead><tbody><tr><td><p>9:30 – 12:30​</p><p>(incl. 15 mins break)</p></td><td><p>[AIUp III] Prompt Engineering​</p><p>Nicole Lee, Alicia Lam, Ming Hong, DC&#x26;I,</p></td></tr><tr><td>1:00 – 2:00</td><td>Lunch Break</td></tr><tr><td>2:00 – 3:00</td><td>Fireside Chat with MDDI Leaders</td></tr><tr><td>3:00 – 4:00</td><td>Happy Hour</td></tr></tbody></table>
 {% endtab %}
 
 {% tab title="Wed 5 Nov" %}
@@ -63,6 +84,14 @@ Self Paced Learning - Project Work
 {% tab title="Fri 7 Nov" %}
 Venue: Civil Service Club @ Tessensohn\
 (see [Venues ](readme/venues.md)for access instructions)
+
+| Time          | Programme                                                      |
+| ------------- | -------------------------------------------------------------- |
+| 10:00 – 10:20 | <p>Recap of TechUp Journey thus far​</p><p>Digital Academy</p> |
+| 10:20 – 11:30 | <p>WOGAA in Government ​</p><p>TBC</p>                         |
+| 11:30 – 12:30 | Lunch Break                                                    |
+| 2:00 – 3:00   | <p>WOG AI Tools Showcase​</p><p>TBC</p>                        |
+| 3:00 – 4:00   | Admin Brief and Next Steps                                     |
 {% endtab %}
 {% endtabs %}
 
