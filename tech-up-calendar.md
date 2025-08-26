@@ -5,33 +5,33 @@
 {% tabs %}
 {% tab title="Mon 27 Oct" %}
 Venue: Civil Service Club @ Tessensohn\
-(see [Venues ](readme/venues.md)for access instructions)\
+Level 4 - Mars/Uranus/Pluto Rooms (Combined)​\
 \
-Registration: NA
+
 {% endtab %}
 
 {% tab title="Tue 28 Oct" %}
 Venue: Civil Service Club @ Tessensohn\
-(see [Venues ](readme/venues.md)for access instructions)
+Level 4 - Mars/Uranus/Pluto Rooms (Combined)​
 
 
 {% endtab %}
 
 {% tab title="Wed 29 Oct" %}
 Venue: Civil Service Club @ Tessensohn\
-(see [Venues ](readme/venues.md)for access instructions)
+Level 4 - Mars/Uranus/Pluto Rooms (Combined)​
 
 
 {% endtab %}
 
 {% tab title="Thu 30 Oct" %}
 Venue: Civil Service Club @ Tessensohn\
-(see [Venues ](readme/venues.md)for access instructions)
+Level 4 - Mars/Uranus/Pluto Rooms (Combined)​
 {% endtab %}
 
 {% tab title="Fri 31 Oct" %}
 Venue: Civil Service Club @ Tessensohn\
-(see [Venues ](readme/venues.md)for access instructions)
+Level 4 - Mars/Uranus/Pluto Rooms (Combined)​
 {% endtab %}
 {% endtabs %}
 

@@ -9,7 +9,7 @@ If you need to be excused from any part of the programme (in part or full due to
 Please also copy your agency POC / HR and,\
 TechUp Main Facilitator, [Patrick Pang](mailto:patrick_pang@tech.gov.sg)\
 TechUp organising team member [Jeanette Tan](mailto:Jeanette_Tan@tech.gov.sg)\
-\\
+
 
 **I have urgent work I need to clear during the programme.**\
 \
