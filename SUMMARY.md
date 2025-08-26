@@ -45,20 +45,12 @@
   * [📸 Notice of Filming and Photography](about-techup/why-do-techup/notice-of-filming-and-photography.md)
 * [⚙️ Learning Outcomes](about-techup/learning-outcomes.md)
 * [🧑‍🤝‍🧑 Meet the Team!](about-techup/meet-the-team.md)
-* [✏️ Copy of Meet the Team!](about-techup/meet-the-team-1.md)
 * [🪑 Learning Groups](about-techup/learning-groups.md)
-* [✏️ Meet your participants](about-techup/meet-your-participants.md)
-* [Past TechUp Web Apps (Crtl + Click to open new Tab)](https://run3.techup.today)
+* [Past TechUp Web Apps (Crtl + Click to open new Tab)](https://run4.techup.today/)
 
 ## ADMIN INSTRUCTIONS
 
 * [Mandatory Surveys](admin-instructions/mandatory-surveys.md)
-* [❓ Give Us Feedback](admin-instructions/give-us-feedback.md)
-
-## Web App Presentations
-
-* [❓ Format](web-app-presentations/format.md)
-* [❓ Presentation Schedule](web-app-presentations/presentation-schedule.md)
 
 ***
 
