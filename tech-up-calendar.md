@@ -5,9 +5,9 @@
 {% tabs %}
 {% tab title="Mon 27 Oct" %}
 Venue: Civil Service Club @ Tessensohn\
-Level 4 - Mars/Uranus/Pluto Rooms (Combined)​\
-\
+Level 4 - Mars/Uranus/Pluto Rooms (Combined)​
 
+<table><thead><tr><th width="214.60003662109375">Time</th><th>Programme</th></tr></thead><tbody><tr><td>10:00 – 10:30</td><td><p>Course Introduction &#x26; Admin Briefing</p><p>GovTech Digital Academy</p></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr></tbody></table>
 {% endtab %}
 
 {% tab title="Tue 28 Oct" %}
