@@ -1,4 +1,5 @@
 ---
+hidden: true
 icon: network-wired
 ---
 
@@ -60,8 +61,6 @@ To link your domain name to the sample web app, there are three things you will 
 
 <figure><img src="../.gitbook/assets/cf-9.avif" alt=""><figcaption><p>Select Full to change SSL/TLS encryption mode</p></figcaption></figure>
 
-
-
 <figure><img src="../.gitbook/assets/cf-10.avif" alt=""><figcaption><p>Click on Confirm to continue</p></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/cf-11.avif" alt=""><figcaption><p>Your SSL/TLS encryption mode should now be set to full</p></figcaption></figure>
@@ -76,11 +75,7 @@ To link your domain name to the sample web app, there are three things you will 
 
 <figure><img src="../.gitbook/assets/cf-17.avif" alt=""><figcaption><p>Scroll down to the section on custom domains</p></figcaption></figure>
 
-
-
 <figure><img src="../.gitbook/assets/cf-15.avif" alt=""><figcaption><p>Enter your domain name and click save</p></figcaption></figure>
-
-
 
 <figure><img src="../.gitbook/assets/cf-16.avif" alt=""><figcaption><p>You should see something similar, click on the copy icon to copy the onrender.com URL which will be used for the nest step</p></figcaption></figure>
 
@@ -89,8 +84,6 @@ To link your domain name to the sample web app, there are three things you will 
 <figure><img src="../.gitbook/assets/cf-18.avif" alt=""><figcaption><p>Click on your domain name</p></figcaption></figure>
 
 #### 7. Click on DNS to go to the page to edit your DNS Records, then click on Add Record
-
-
 
 <figure><img src="../.gitbook/assets/cf-19.avif" alt=""><figcaption><p>Click on DNS in the sidebar then click on Add Record</p></figcaption></figure>
 

@@ -1,4 +1,5 @@
 ---
+hidden: true
 icon: database
 ---
 
@@ -19,8 +20,6 @@ icon: database
 <figure><img src="../.gitbook/assets/sample-28.avif" alt=""><figcaption><p>Click on Import from URL</p></figcaption></figure>
 
 #### 4. Paste the `External Database URL` (which you copied earlier when setting up Postgres) into the text field then click Import
-
-
 
 <figure><img src="../.gitbook/assets/sample-29.avif" alt=""><figcaption><p>Paste your External URL into the field then click Import</p></figcaption></figure>
 

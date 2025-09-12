@@ -38,7 +38,7 @@ Please refer to [Contact Persons](contact-persons.md) to address your concerns.
     Yes, the deliverable for TechUp is to build your own web app (frontend) that solves a problem of your choice. The web app you build should meet the requirements stated in [this webpage](../techup-challenge/expected-deliverables.md).
 *   **How can I find inspiration on what type of webapp to build?**
 
-    You may find inspiration on the webapps built by our previous run of TechUp participants [here](https://techup.live/).
+    You may find inspiration on the webapps built by our previous run of TechUp participants [here](https://run4.techup.today/).
 
     Alternatively, you can follow the step-by-step tutorials below for additional practice:
 
