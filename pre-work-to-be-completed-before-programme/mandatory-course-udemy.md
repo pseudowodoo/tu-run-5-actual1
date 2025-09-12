@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # 👾 Compulsory Pre-Readings
 
 To prepare you for the web development project, you are strongly advised to complete the mandatory courses curated for you, **before** the respective weeks. The majority of these courses are extracted from [The Complete Full Stack Web Development Bootcamp](https://learncsc.udemy.com/course/the-complete-web-development-bootcamp/learn/lecture/12638830#notes) (accessible on Udemy via LEARN app).
