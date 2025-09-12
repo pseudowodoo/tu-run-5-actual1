@@ -23,15 +23,15 @@ You should have already received the email invite to TechUp’s channels on Slac
 3. **Set up your 2FA with your preferred authentication app.**
 4. **Enter the 2FA code and click "Verify code and activiate"**
 
-<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 
 5. **At the above screen click on "Back to your Workspaces"**
 
-<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
 
 6. **Click on Launch in Slack in the GVT04 External Workspace**
 
-<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
 
 7. **You will now have access to #techup4, #techup-webapp-help**
 

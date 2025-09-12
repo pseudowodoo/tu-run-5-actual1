@@ -12,20 +12,20 @@ icon: database
 
 #### 1. Go to [https://dashboard.render.com](https://supabase.com/dashboard/sign-up) and click on Continue with GitHub.&#x20;
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 2. **Login with your GitHub credentials**
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
 3. **You may be asked to verify your account details with an OTP. Follow the instructions**
 4. **Next Authorize Supabase**
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
 5. **Create a new Organization or Team name. An arbitrary name will suffice. Leave the other settings as Personal and Free**
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 
 6. **Create a Project** \
    a. Give the project a name\
@@ -34,7 +34,7 @@ icon: database
    Then Click on Create New Project.
 7. **You will now have a Blank Database ready to use for your project!**
 
-<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 
 
 

@@ -16,6 +16,7 @@
     * [For Websites without Backend (Default for TechUp)](pre-work-to-be-completed-before-programme/tooling-and-software/render/for-websites-without-backend-default-for-techup.md)
     * [For Websites with Backend (For Advanced Learners)](pre-work-to-be-completed-before-programme/tooling-and-software/render/for-websites-with-backend-for-advanced-learners.md)
   * [Supabase](pre-work-to-be-completed-before-programme/tooling-and-software/supabase.md)
+  * [Loveable](pre-work-to-be-completed-before-programme/tooling-and-software/loveable.md)
 * [🌎 \[Mandatory\] Readings on How the Internet Works](pre-work-to-be-completed-before-programme/mandatory-reading-on-how-the-internet-works.md)
 * [👾 Compulsory Pre-Readings](pre-work-to-be-completed-before-programme/mandatory-course-udemy.md)
 * [👾 \[Superseded\] Mandatory Course (Udemy)](pre-work-to-be-completed-before-programme/mandatory-course-udemy-1.md)

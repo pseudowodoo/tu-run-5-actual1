@@ -1,4 +1,5 @@
 ---
+hidden: true
 icon: database
 ---
 
@@ -36,15 +37,13 @@ icon: database
 
 <figure><img src="../../../.gitbook/assets/ren-7.avif" alt=""><figcaption><p>🎉 You now have a Render account!</p></figcaption></figure>
 
-
-
 {% hint style="info" %}
-Before the course, you are only expected to do up to Step #6 above - i.e., to setup your Render Account.&#x20;
+Before the course, you are only expected to do up to Step #6 above - i.e., to setup your Render Account.
 
-As you build your web app, you will need to select whether to build a static site vs. to build a web service on Render.&#x20;
+As you build your web app, you will need to select whether to build a static site vs. to build a web service on Render.
 
 * (i) For those who do not intend to build a backend: you will need to use a [**static site**](for-websites-without-backend-default-for-techup.md). (For TechUp participants by default)
-* (ii) For those who intend to build a backend: you will need to use [**web service**](for-websites-with-backend-for-advanced-learners.md). (For advanced learners)&#x20;
+* (ii) For those who intend to build a backend: you will need to use [**web service**](for-websites-with-backend-for-advanced-learners.md). (For advanced learners)
 
-We will get into these details during the course.&#x20;
+We will get into these details during the course.
 {% endhint %}
