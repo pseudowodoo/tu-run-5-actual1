@@ -8,9 +8,9 @@ icon: database
 **Create a GitHub account first if you haven't already done so**. Instructions on how to create a GitHub account can be found on this page [GitHub](github.md).
 {% endhint %}
 
-### Creating a Render account
+### Creating a Supabase account
 
-#### 1. Go to [https://dashboard.render.com](https://supabase.com/dashboard/sign-up) and click on Continue with GitHub.&#x20;
+#### 1. Go to [https://supabase.com/dashboard/sign-up](https://supabase.com/dashboard/sign-up) and click on Continue with GitHub.&#x20;
 
 <figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
