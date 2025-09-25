@@ -6,8 +6,8 @@ icon: circle-location-arrow
 
 You may refer to the [TechUp calendar ](../tech-up-calendar.md)during the programme for the most up-to-date venues for each session, but broadly:
 
-1. All in-person workshops and sessions will be held at **Civil Service Club @ Tessensohn.**
-2. Web App Presentations on 17 Nov – 19 Nov 2025 are held at **MDDI @ Hill Street**. The room allocations will be briefed to you nearer the date.
+1. All in-person workshops and sessions will be held at **Civil Service Club @ Tessensohn and SNDG Office Funan Pantry**&#x20;
+2. Web App Presentations on 17 Nov – 19 Nov 2025 are held at **CSA office**. The room allocations will be briefed to you nearer the date.
 3. Demo Day on 21 Nov 2025 will be at **MDDI Atrium** (public access is possible).
 
 ### Additional Notes: <a href="#additional-notes" id="additional-notes"></a>
@@ -21,7 +21,8 @@ You may refer to the [TechUp calendar ](../tech-up-calendar.md)during the progra
 {% tab title="Civil Service Club @ Tessensohn" %}
 **Address**
 
-60 Tessensohn Rd, Singapore 217664
+60 Tessensohn Rd, Singapore 217664\
+Level 4, assess from Lift C
 
 **Access**
 
@@ -37,7 +38,7 @@ Along Balestier Road \[21, 23, 64, 65, 66, 67, 125, 130, 139, 147, 857]\
 
 
 **Parking Information** \
-Refer to: CSC Website
+Refer to: [CSC Website](https://www.csctessensohn.sg/locate.aspx)
 {% endtab %}
 
 {% tab title="MDDI Atrium" %}
@@ -56,5 +57,17 @@ Nearest MRT station: Clarke Quay, City Hall
 **Parking Information**
 
 We highly encourage participants to take public transport due to limited parking available. MCI parking lots are reserved for VIPs. Alternatively, you may wish to park at Clark Quay, which is free for the first 2 hours.
+{% endtab %}
+
+{% tab title="CSA Office" %}
+**Address**\
+ASCCE \
+251 North Bridge Road, #03-02, Singapore 179102
+
+**Public Transport**
+
+Nearest MRT station: City Hall
+
+
 {% endtab %}
 {% endtabs %}

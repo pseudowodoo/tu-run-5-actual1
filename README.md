@@ -26,6 +26,10 @@ Please note that the information on this website is solely meant for the purpose
 
 ### Key Dates and Information
 
+{% hint style="warning" %}
+CSA Office is located at **ASCCE (251 North Bridge Road, #03-02, Singapore 179102)** not Maxwell Road.
+{% endhint %}
+
 {% hint style="info" %}
 TechUp Run 5 is a 4-week programme, from **27 Oct 2025 – 21 Nov 2025**
 
