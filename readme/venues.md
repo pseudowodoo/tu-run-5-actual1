@@ -70,4 +70,18 @@ Nearest MRT station: City Hall
 
 
 {% endtab %}
+
+{% tab title="SNDG Pantry" %}
+**Address**\
+109 North Bridge Rd, #06-01 Funan, O2 Office, City Hall, 179097
+
+**Public Transport**
+
+Nearest MRT station: Clarke Quay, City Hall
+
+**Parking Information**&#x20;
+
+Refer to [Funan Website](https://www.capitaland.com/sg/malls/funan/en/concierge.html)
+{% endtab %}
 {% endtabs %}
+

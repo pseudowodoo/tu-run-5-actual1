@@ -48,9 +48,9 @@ Please refer to TechUp Slack Channels for more announcements.
 
 ### Training Venues
 
-The programme will be conducted at 2 different venues:
+The programme will be conducted at a few different venues:
 
-<table><thead><tr><th width="328">Venue</th><th>Address</th></tr></thead><tbody><tr><td><strong>Civil Service Club @ Tessensohn</strong> </td><td>60 Tessensohn Rd, Singapore 217664</td></tr><tr><td><strong>MDDI</strong><br>Ministry of Digital Development and Information</td><td><p>140 Hill Street, Old Hill Street Police Station,</p><p>Singapore 179369</p></td></tr></tbody></table>
+<table><thead><tr><th width="328">Venue</th><th>Address</th></tr></thead><tbody><tr><td><strong>Civil Service Club @ Tessensohn</strong> </td><td>60 Tessensohn Rd, Singapore 217664</td></tr><tr><td><strong>MDDI</strong><br>Ministry of Digital Development and Information</td><td><p>140 Hill Street, Old Hill Street Police Station,</p><p>Singapore 179369</p></td></tr><tr><td><strong>CSA Office / ASCCE</strong></td><td>251 North Bridge Road, #03-02, Singapore 179102</td></tr><tr><td><strong>SNDG Office Pantry</strong></td><td>109 North Bridge Rd, #06-01 Funan, O2 Office, City Hall, 179097</td></tr></tbody></table>
 
 Please visit [Venues ](readme/venues.md)page for more information
 
