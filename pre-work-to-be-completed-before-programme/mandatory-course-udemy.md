@@ -10,7 +10,7 @@
 {% tab title="Web Development" %}
 [**Web Development Concepts**](https://learncsc.udemy.com/course/web-development-concepts-for-everyone/learn/) \
 Section 2: Basics of Full-Stack Web Applications\
-Section 5: Relational Databases\
+Section 9: Relational Databases\
 Section 10: Web Developer Tools
 {% endtab %}
 
