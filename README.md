@@ -38,6 +38,11 @@ Training hours are typically from 9:00am to 5.00pm, unless otherwise stated.
 
 ***
 
+{% hint style="danger" %}
+Please Set up Slack, Lovable, Supabase, Github before training commences! \
+Guides: [Slack ](pre-work-to-be-completed-before-programme/tooling-and-software/slack.md)| [Github ](pre-work-to-be-completed-before-programme/tooling-and-software/github.md)| [Copilot ](pre-work-to-be-completed-before-programme/tooling-and-software/github-1.md)| [Lovable ](pre-work-to-be-completed-before-programme/tooling-and-software/lovable.md)| [Supabase ](pre-work-to-be-completed-before-programme/tooling-and-software/supabase.md)|&#x20;
+{% endhint %}
+
 ### Latest Announcements! <a href="#announcements-board" id="announcements-board"></a>
 
 Participants should be receiving their calendar invites along with their learner brief by end September. Please let [Jeanette ](mailto:Jeanette_Tan@tech.gov.sg)know if you have not already gotten it by then.
