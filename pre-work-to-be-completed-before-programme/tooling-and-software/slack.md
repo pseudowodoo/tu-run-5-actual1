@@ -8,13 +8,13 @@ Slack will be the main channel of communication and information dissemination fo
 
 You should have already received the email invite to TechUp’s channels on Slack from GovTech. Please be reminded to change your profile picture once you have set up your account, for our identification purposes.
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption><p>Invitation to Join TechUp's Channels</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption><p>Invitation to Join TechUp's Channels</p></figcaption></figure>
 
 1. **Click on "Join Slack" on the Slack invitation email**
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption><p>Create Account</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption><p>Create Account</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption><p>Fill in Details</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption><p>Fill in Details</p></figcaption></figure>
 
 2. **Click on "Create Account" when you are done**
 

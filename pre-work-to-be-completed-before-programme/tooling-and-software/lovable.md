@@ -14,21 +14,21 @@ icon: square-code
 
 To complete your project a Lovable (Paid) Pro plan is required.
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 2\. Click on Continue with GitHub.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 Sign in to GitHub
 
-<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 3. Complete payment with your Credit Card for the Pro Plan
 4. Go to [https://lovable.dev/?settings=supabase](https://lovable.dev/?settings=supabase) to Connect to setup integrations to GitHub and Supabase
 5. Click on Connect Supabase and follow the on screen instructions to connect to Supabase and similarly for GitHub as well. This is to facilitate your codebase to be stored into GitHub and allows your app to be connected to a Database.
 
-<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 

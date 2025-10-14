@@ -12,7 +12,7 @@ icon: database
 
 #### 1. Go to [https://supabase.com/dashboard/sign-up](https://supabase.com/dashboard/sign-up) and click on Continue with GitHub.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 2. **Login with your GitHub credentials**
 

@@ -12,6 +12,7 @@
 * [🖥️ Pre-Course Tooling](pre-work-to-be-completed-before-programme/tooling-and-software/README.md)
   * [🖱️ Slack](pre-work-to-be-completed-before-programme/tooling-and-software/slack.md)
   * [GitHub](pre-work-to-be-completed-before-programme/tooling-and-software/github.md)
+  * [GitHub Copilot](pre-work-to-be-completed-before-programme/tooling-and-software/github-1.md)
   * [Render](pre-work-to-be-completed-before-programme/tooling-and-software/render/README.md)
     * [For Websites without Backend (Default for TechUp)](pre-work-to-be-completed-before-programme/tooling-and-software/render/for-websites-without-backend-default-for-techup.md)
     * [For Websites with Backend (For Advanced Learners)](pre-work-to-be-completed-before-programme/tooling-and-software/render/for-websites-with-backend-for-advanced-learners.md)
