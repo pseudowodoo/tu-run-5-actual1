@@ -21,7 +21,7 @@ You will be using these tools to create a web app. Please register accounts for:
 3. [**Supabase**](https://supabase.com/)\
    You will be using Supabase (Managed PostgresQL) as a Database platform as a service to power your apps with persistent data. Please read the [Supabase setup Guide ](supabase.md)for step by step instructions.
 4. [**Loveable**](https://lovable.dev/)\
-   You will be using loveable as a Vibe coding platform to craft your web application. Please read the [Loveable setup guide](loveable.md) for step by step instructions.
+   You will be using loveable as a Vibe coding platform to craft your web application. Please read the [Loveable setup guide](lovable.md) for step by step instructions.
 
 #### Additional notes <a href="#additional-notes" id="additional-notes"></a>
 
