@@ -1,11 +1,10 @@
 ---
-hidden: true
 icon: globe-pointer
 ---
 
 # Web App Requirements
 
-To pass the programme, your web app will need to fulfil the following requirements.
+To complete the TechUp challenge, your web app will need to fulfil the following requirements. These will be evaluated during the Web App Presentation Days (between 17-19th Nov):&#x20;
 
 ## **A. Product-level Requirements:**
 
