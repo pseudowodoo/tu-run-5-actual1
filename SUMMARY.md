@@ -34,6 +34,7 @@
 ## TechUp Challenge
 
 * [📱 Deliverables & Milestones](techup-challenge/expected-deliverables.md)
+* [🗃️ Deliverables Sheet](https://docs.google.com/spreadsheets/d/1GVPrjeSOmH5QA8ktG_OR1l3wncuCamIGE2Pye3zgMUc/edit?usp=sharing)
 * [Web App Requirements](techup-challenge/web-app-requirements.md)
 * [🎤 Post-User Interview Reflections (16th May)](techup-challenge/post-user-interview-reflections-8-nov.md)
 * [🔊 WebApp Presentation (WAP) Day](techup-challenge/webapp-presentation-wap-day/README.md)

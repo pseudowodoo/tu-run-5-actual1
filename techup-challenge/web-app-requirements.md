@@ -9,64 +9,29 @@ To pass the programme, your web app will need to fulfil the following requiremen
 
 ## **A. Product-level Requirements:**
 
-1. You have clearly formulated a **robust problem statement**, and that your web app clearly is aimed to address this problem, through its features and design.
-2. You have **developed and tested your prototype** with users, to ascertain that your assumptions/ hypotheses are valid.
-3. You have incorporated **UX Design principles and elements** to allow for an intuitive user experience for the intended users.
+1. You have clearly formulated a **robust problem statement**, and that your web app clearly is aimed to address this problem, through its features and design. Your problem statement should be **suitably scoped**, and should show clarity of:
+   1. the specific target **user** group
+   2. **pain-points**
+   3. **consequences** of the problem if it remains unsolved
+2. You have devised suitable metrics to measure the success of your product. Your selected metrics should:&#x20;
+   1. Be **SMART** - i.e., specific, measurable, achievable, relevant, time-based
+   2. Show a clear distinction between **leading and lagging indicators**
+3. You have **developed and tested your prototype** with users, to:
+   1. ascertain that your **assumptions/ hypotheses** are valid; and
+   2. that the **user experience** is intuitive and effective
 
 ## **B. Hard Technical Requirements:**
 
 For your app to score a passing grade, your app should also demonstrate the following:
 
-1. Use of **HTML and CSS** to structure and style the web app to generate an effective interface
-2. Use of **Javascript** to allow for some elements of interactivity
-3. It has been deployed to the Internet and hosted as a live website using **Render**.
-4. Have a **custom domain name** and **CDN** purchased from **Cloudflare**
-5. Connected to **Google Analytics** so as to track key website data
+1. Possess both the front-end interface and backend functions;&#x20;
+2. Working functionally as intended
+3. Developed either manually or through the use of AI-assistend product development platforms (e.g., Lovable, GitHub Copilot)
+   1. Note: you are free to use whichever tool you prefer for this course.
+4. Successfully deployed to the internet, with a custom domain name.&#x20;
 
 You will be guided on how to meet both product-level and hard technical requirements across the TechUp Programme. You are required to present your web app during the Evaluation Day.
 
 ***
 
-## Enhanced Requirements: For Advanced Participants <a href="#for-advanced-participants" id="for-advanced-participants"></a>
-
-If you possess basic background in technology (e.g., you hold a computer science degree), or find the above too easy, you are encouraged to challenge yourself to do more with your web app! Examples of ways to challenge yourself further are as follows:
-
-1. Creating a backend for the web app, that would allow it to do API calls or database management.
-2. Automated monitoring for their web app (e.g. using Datadog or Uptime Robot)
-3. Implement Continuous Integration and Development (CI/CD) - write test cases that run automatically each time their app gets deployed, to help them catch errors
-4. Use an automated security testing tool to prove that their web apps are secure
-5. Web app can address a real existing problem statement contributed by other public service agencies
-
-### Limitations of Front-End Only Web Apps
-
-The basic requirement for your web app is that it should have a functioning front-end interface, via employing the use of HTML, CSS and Javascript.
-
-Note that the lack of a back-end may limit the functionality of your web app – see below:
-
-#### A. Without Backend
-
-Examples include:
-
-* **Present recommended options based on specific criteria**\
-  As users indicate their preferred criteria, the website returns suitable options that match users’ preferred options.
-* **Basic Quiz App**\
-  Allows for the building of MCQ quiz with instant feedback & score tracking
-* **Image Gallery**\
-  An image gallery with click-to-enlarge functionality
-* **Calculators**\
-  Simple calculations such as BMI calculators
-
-#### B. With Backend
-
-Examples of BE-enabled functions include:
-
-* **Deep User Interactions**\
-  Such as posting comments, liking content.
-* **Personalisation**\
-  **E**.g., after logging in, a user might see personalized content, such as their profile information, personalized recommendations. This data is saved and accessed.
-* **Authentication**\
-  User logins
-* **API Calls**\
-  E.g., Submits a call to Google Maps API
-* **App to save user submissions**\
-  To-do note Keeping APP, crowd source of information
+## &#x20;<a href="#for-advanced-participants" id="for-advanced-participants"></a>
