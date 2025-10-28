@@ -7,20 +7,21 @@
 * [❓ What You Need to Know](what-you-need-to-know.md)
 * [🗓️ TechUp Calendar](tech-up-calendar.md)
 
-## 📖 Pre-Work (To be completed before Programme)
+## 📖 Key Materials
 
-* [🖥️ Pre-Course Tooling](pre-work-to-be-completed-before-programme/tooling-and-software/README.md)
-  * [🖱️ Slack](pre-work-to-be-completed-before-programme/tooling-and-software/slack.md)
-  * [GitHub](pre-work-to-be-completed-before-programme/tooling-and-software/github.md)
-  * [GitHub Copilot](pre-work-to-be-completed-before-programme/tooling-and-software/github-1.md)
-  * [Render](pre-work-to-be-completed-before-programme/tooling-and-software/render/README.md)
-    * [For Websites without Backend (Default for TechUp)](pre-work-to-be-completed-before-programme/tooling-and-software/render/for-websites-without-backend-default-for-techup.md)
-    * [For Websites with Backend (For Advanced Learners)](pre-work-to-be-completed-before-programme/tooling-and-software/render/for-websites-with-backend-for-advanced-learners.md)
-  * [Supabase](pre-work-to-be-completed-before-programme/tooling-and-software/supabase.md)
-  * [Lovable](pre-work-to-be-completed-before-programme/tooling-and-software/lovable.md)
-* [🌎 \[Mandatory\] Readings on How the Internet Works](pre-work-to-be-completed-before-programme/mandatory-reading-on-how-the-internet-works.md)
-* [👾 Compulsory Pre-Readings](pre-work-to-be-completed-before-programme/mandatory-course-udemy.md)
-* [👾 \[Superseded\] Mandatory Course (Udemy)](pre-work-to-be-completed-before-programme/mandatory-course-udemy-1.md)
+* [🖥️ Pre-Course Tooling](key-materials/tooling-and-software/README.md)
+  * [🖱️ Slack](key-materials/tooling-and-software/slack.md)
+  * [GitHub](key-materials/tooling-and-software/github.md)
+  * [GitHub Copilot](key-materials/tooling-and-software/github-1.md)
+  * [Render](key-materials/tooling-and-software/render/README.md)
+    * [For Websites without Backend (Default for TechUp)](key-materials/tooling-and-software/render/for-websites-without-backend-default-for-techup.md)
+    * [For Websites with Backend (For Advanced Learners)](key-materials/tooling-and-software/render/for-websites-with-backend-for-advanced-learners.md)
+  * [Supabase](key-materials/tooling-and-software/supabase.md)
+  * [Lovable](key-materials/tooling-and-software/lovable.md)
+* [🌎 \[Mandatory\] Readings on How the Internet Works](key-materials/mandatory-reading-on-how-the-internet-works.md)
+* [👾 Compulsory Pre-Readings](key-materials/mandatory-course-udemy.md)
+* [📚 Programme Materials](key-materials/programme-materials.md)
+* [👾 \[Superseded\] Mandatory Course (Udemy)](key-materials/mandatory-course-udemy-1.md)
 
 ***
 
@@ -29,7 +30,6 @@
   * [Cloudflare](in-course-tooling/cloudflare.md)
   * [Google Analytics](in-course-tooling/google-analytics.md)
   * [TablePlus](in-course-tooling/tableplus.md)
-* [📚 Programme Materials](programme-materials.md)
 
 ## TechUp Challenge
 

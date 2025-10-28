@@ -1,7 +1,3 @@
----
-hidden: true
----
-
 # 📚 Programme Materials
 
 {% tabs %}

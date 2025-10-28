@@ -40,7 +40,7 @@ Training hours are typically from 9:00am to 5.00pm, unless otherwise stated.
 
 {% hint style="danger" %}
 Please Set up Slack, Lovable, Supabase, Github before training commences! \
-Guides: [Slack ](pre-work-to-be-completed-before-programme/tooling-and-software/slack.md)| [Github ](pre-work-to-be-completed-before-programme/tooling-and-software/github.md)| [Copilot ](pre-work-to-be-completed-before-programme/tooling-and-software/github-1.md)| [Lovable ](pre-work-to-be-completed-before-programme/tooling-and-software/lovable.md)| [Supabase ](pre-work-to-be-completed-before-programme/tooling-and-software/supabase.md)|&#x20;
+Guides: [Slack ](key-materials/tooling-and-software/slack.md)| [Github ](key-materials/tooling-and-software/github.md)| [Copilot ](key-materials/tooling-and-software/github-1.md)| [Lovable ](key-materials/tooling-and-software/lovable.md)| [Supabase ](key-materials/tooling-and-software/supabase.md)|&#x20;
 {% endhint %}
 
 ### Latest Announcements! <a href="#announcements-board" id="announcements-board"></a>
@@ -65,7 +65,7 @@ Please visit [Venues ](readme/venues.md)page for more information
 
 The primary communication channel for TechUp is via Slack and this website.
 
-Get Started with Slack: Please follow the [Slack setup guide](pre-work-to-be-completed-before-programme/tooling-and-software/slack.md).
+Get Started with Slack: Please follow the [Slack setup guide](key-materials/tooling-and-software/slack.md).
 
 Other Queries: [Contact us](readme/contact-persons.md) or read the [FAQs](readme/frequently-asked-questions.md) for help
 

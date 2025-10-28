@@ -4,14 +4,14 @@
 
 Please be sure to complete the Pre-Work before the start of the programme. Please make sure you have access to LEARN app to access the programme materials.
 
-* Have the [pre-course tooling](pre-work-to-be-completed-before-programme/tooling-and-software/) readily set-up and downloaded into your devices
-* Complete the necessary [pre-readings ](pre-work-to-be-completed-before-programme/mandatory-course-udemy.md)
+* Have the [pre-course tooling](key-materials/tooling-and-software/) readily set-up and downloaded into your devices
+* Complete the necessary [pre-readings](key-materials/mandatory-course-udemy.md)
 
 ***
 
 ### Get on Slack
 
-Please refer to [Slack Guide](pre-work-to-be-completed-before-programme/tooling-and-software/slack.md) to join our channels.
+Please refer to [Slack Guide](key-materials/tooling-and-software/slack.md) to join our channels.
 
 ***
 
@@ -44,10 +44,3 @@ To complete the hands-on portion of the programme, you are required to be equipp
 Please feel free to put on casual clothes as long as your outfit does not create any distress, alarm or discomfort to other participants.
 
 ***
-
-
-
-
-
-
-
