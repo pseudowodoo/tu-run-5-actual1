@@ -21,7 +21,8 @@ Note: All materials produced for TechUp are co-owned by Smart Nation Group, Open
 
 #### D. Iterative Web Development with AI&#x20;
 
-1. [Iterative Web Develpment with AI](https://docs.google.com/presentation/d/13tfeC2KA1XCQGI2gSEwAh-xHM_Xw7fPMBoBSv4CCNiY/edit?usp=sharing) (30 Oct, Thurs) - Facilitators: James Hibberd; Loh Chee Leong
+1. [Iterative Web Development with AI](https://docs.google.com/presentation/d/13tfeC2KA1XCQGI2gSEwAh-xHM_Xw7fPMBoBSv4CCNiY/edit?usp=sharing) (30 Oct, Thurs) - Facilitators: James Hibberd; Loh Chee Leong
+2. [Step-by-Step Guide](https://docs.google.com/document/d/1c-gnFpZK1NkGkyw6Tem4Z_b8vqqZx3USX7cdxE3_oIk/edit?usp=sharing)
 {% endtab %}
 {% endtabs %}
 
