@@ -20,6 +20,8 @@ Note: All materials produced for TechUp are co-owned by Smart Nation Group, Open
 2. [Design Resources](https://melodious-raven-264.notion.site/TechUp5-Design-Resource-for-Lovable-28e0395084b480faa9cdfdf7e4d9f33e) (on Notion)
 
 #### D. Iterative Web Development with AI&#x20;
+
+1. [Iterative Web Develpment with AI](https://docs.google.com/presentation/d/13tfeC2KA1XCQGI2gSEwAh-xHM_Xw7fPMBoBSv4CCNiY/edit?usp=sharing) (30 Oct, Thurs) - Facilitators: James Hibberd; Loh Chee Leong
 {% endtab %}
 {% endtabs %}
 
