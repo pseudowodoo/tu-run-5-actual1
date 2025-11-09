@@ -6,7 +6,7 @@ This page provides a summary of the key details surrounding the WAP Day:
 
 ## Venue & Date
 
-<table><thead><tr><th width="107">Item</th><th>Details</th></tr></thead><tbody><tr><td><strong>Date</strong></td><td>17<strong>th — 19th November 2025 (Mon-Wed)</strong><br>- You will each be assigned a 3.5 hr slot to present alongside your fellow participants. Please refer to your assigned slot in the <a href="https://docs.google.com/spreadsheets/d/1GVPrjeSOmH5QA8ktG_OR1l3wncuCamIGE2Pye3zgMUc/edit?gid=1073975352#gid=1073975352">Deliverables sheet here </a>(under the "WAP Days" tab)</td></tr><tr><td><strong>Venue</strong></td><td>Asean-Singapore Cybersecurity Center of Excellence (ASCCE) <br>251 North Bridge Road, #03-02, Singapore 179102<br>- This is a F2F presentation. </td></tr></tbody></table>
+<table><thead><tr><th width="107">Item</th><th>Details</th></tr></thead><tbody><tr><td><strong>Date</strong></td><td><strong>17th — 19th November 2025 (Mon-Wed)</strong><br>- You will each be assigned a 3.5 hr slot to present alongside your fellow participants. Please refer to your assigned slot in the <a href="https://docs.google.com/spreadsheets/d/1GVPrjeSOmH5QA8ktG_OR1l3wncuCamIGE2Pye3zgMUc/edit?gid=1073975352#gid=1073975352">Deliverables sheet here </a>(under the "WAP Days" tab)</td></tr><tr><td><strong>Venue</strong></td><td>Asean-Singapore Cybersecurity Center of Excellence (ASCCE) <br>251 North Bridge Road, #03-02, Singapore 179102<br>- This is a F2F presentation. </td></tr></tbody></table>
 
 ## How would WAP Day look like?
 
